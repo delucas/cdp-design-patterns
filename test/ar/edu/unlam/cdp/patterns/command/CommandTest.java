@@ -7,7 +7,7 @@ import org.junit.Test;
 public class CommandTest {
 
 	@Test
-	public void test() {
+	public void testCommand() {
 		CompositeCommand theUselessCommand = new CompositeCommand();
 		
 		theUselessCommand.add(new CopyFile("Copies file", new File("a"), new File("b")));

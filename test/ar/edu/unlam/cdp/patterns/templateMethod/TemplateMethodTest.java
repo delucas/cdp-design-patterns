@@ -5,7 +5,7 @@ import org.junit.Test;
 public class TemplateMethodTest {
 
 	@Test
-	public void testStrategy(){
+	public void testTemplateMethod(){
 
 		Report report1 = new HTMLReport();
 		report1.outputReport();
