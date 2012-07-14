@@ -2,8 +2,7 @@ package ar.edu.unlam.cdp.patterns.strategy;
 
 import org.junit.Test;
 
-public class App {
-
+public class StrategyTest {
 
 	@Test
 	public void testStrategy(){

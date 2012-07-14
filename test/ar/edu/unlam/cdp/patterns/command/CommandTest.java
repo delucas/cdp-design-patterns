@@ -4,7 +4,7 @@ import java.io.File;
 
 import org.junit.Test;
 
-public class App {
+public class CommandTest {
 
 	@Test
 	public void test() {

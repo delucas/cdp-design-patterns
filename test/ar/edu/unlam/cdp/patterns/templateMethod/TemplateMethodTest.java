@@ -2,8 +2,7 @@ package ar.edu.unlam.cdp.patterns.templateMethod;
 
 import org.junit.Test;
 
-public class App {
-
+public class TemplateMethodTest {
 
 	@Test
 	public void testStrategy(){
