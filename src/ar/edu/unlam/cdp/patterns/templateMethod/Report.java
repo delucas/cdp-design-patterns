@@ -14,7 +14,7 @@ public abstract class Report {
 		this.text.add("really, really well.");
 	}
 	
-	public void outputReport(){
+	public final void outputReport(){
 	    this.outputStart();
 	    this.outputHead();
 	    this.outputBodyStart();
